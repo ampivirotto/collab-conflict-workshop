@@ -1,4 +1,5 @@
 # TEAM BIOS
 
 ## Team Members
-1. Alyssa Pivirotto - LITS
+1. Name - Location 
+2. Alyssa Pivirotto - LITS
